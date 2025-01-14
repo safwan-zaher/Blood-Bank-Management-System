@@ -1,6 +1,7 @@
 # Blood Bank Management System
 
 ## Introduction
+This project, created in 2022, using Java. Unfortunately, the source code is no longer available, but the user interface designs remain and demonstrate the project's core functionality and design principles.
 
 The **Blood Bank Management System** is a comprehensive application for managing blood donation and stock details. It enables users to add, update, and delete donor records, search for donors based on location or blood group, and manage blood stock efficiently. The system's user-friendly interface ensures seamless navigation for hospital staff and administrators.
 
